@@ -1,0 +1,21 @@
+{
+  "name": "testing-js-jest",
+  "version": "1.0.0",
+  "description": "Jest testing JS, sprint-8, tasks 178b,555",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Andrii Fedyshyn",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
